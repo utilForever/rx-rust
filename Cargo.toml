@@ -1,7 +1,11 @@
 [package]
-name = "RxRust"
+name = "rx-rust"
 version = "0.1.0"
+authors = [ "Chris Ohk <utilforever@gmail.com>" ]
 edition = "2018"
+description = "Reactive Extensions for the Rust language"
+repository = "https://github.com/utilForever/rx-rust"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

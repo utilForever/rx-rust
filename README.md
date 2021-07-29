@@ -1,2 +1,3 @@
-# RxRust
-Reactive Extensions for the Rust language.
+# rx-rust
+
+Reactive Extensions for the Rust language
